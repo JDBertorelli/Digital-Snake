@@ -38,7 +38,7 @@ Una recreación del clásico juego de la serpiente (*Snake*) desarrollada en HTM
 1. Clonar el repositorio o descargar el archivo `index.html`.
 2. Abrir el archivo `index.html` en cualquier navegador web moderno (Chrome, Firefox, Edge, Safari).
 3. O probar la versión en vivo directamente a través de **GitHub Pages**:
-   👉 `https://tu-usuario.github.io/nombre-del-repositorio/`
+   👉 `https://jdbertorelli.github.io/Digital-Snake/`
 
 ---
 
